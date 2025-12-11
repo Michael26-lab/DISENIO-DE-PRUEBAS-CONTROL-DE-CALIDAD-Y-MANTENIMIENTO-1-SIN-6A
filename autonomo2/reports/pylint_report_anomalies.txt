@@ -1,0 +1,8 @@
+************* Module src_with_anomalies.binary_search_with_anomalies
+src_with_anomalies/binary_search_with_anomalies.py:24:0: C0305: Trailing newlines (trailing-newlines)
+src_with_anomalies/binary_search_with_anomalies.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src_with_anomalies/binary_search_with_anomalies.py:14:8: R1723: Unnecessary "elif" after "break", remove the leading "el" from "elif" (no-else-break)
+
+-----------------------------------
+Your code has been rated at 7.86/10
+

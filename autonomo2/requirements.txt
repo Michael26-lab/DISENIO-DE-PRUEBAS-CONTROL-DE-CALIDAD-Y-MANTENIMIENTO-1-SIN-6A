@@ -1,0 +1,7 @@
+pytest>=7.0
+coverage
+pytest-cov
+pylint
+pydoe2
+doepy
+allpairspy

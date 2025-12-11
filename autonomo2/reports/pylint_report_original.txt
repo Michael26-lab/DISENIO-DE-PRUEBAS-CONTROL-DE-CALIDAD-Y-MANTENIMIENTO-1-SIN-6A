@@ -1,0 +1,7 @@
+************* Module src.binary_search
+src/binary_search.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+src/binary_search.py:10:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 8.18/10, +0.00)
+
